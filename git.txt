@@ -1,0 +1,27 @@
+Initialized repository:
+git init
+
+Add all the files changes:
+git add .
+
+configurar nombre del cambio a guardar:
+git commit -m 'nombre de la modificacion'
+
+guardar o actualizar al repositorio remoto(github):
+git push
+
+para mostrar todos los branch:
+git branch
+
+para crear un nuevo branch:
+git branch nombredelnuevobranch
+
+para cambiar del branch en donde se esté:
+git checkout nombredelbranch
+
+para hacer los dos pasos anteriores en un solo codigo:
+git checkout -b nombredelnuevobranch
+
+para agregar un cambio en otro branch??
+git pull
+
